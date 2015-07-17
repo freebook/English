@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE article
-  PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd"
+<!DOCTYPE subject SYSTEM "/usr/share/xml/docbook/schema/dtd/5.0/docbook.dtd"
 [
 
-	<!ENTITY book.info.legalnotice SYSTEM "../common/book.info.legalnotice.xml">
-	<!ENTITY about.me SYSTEM "../common/about.me.xml">
+	<!ENTITY book.info.legalnotice 	SYSTEM "../common/book.info.legalnotice.xml">
+	<!ENTITY about.me 				SYSTEM "../common/about.me.xml">
 	
-	<!ENTITY chapter.be SYSTEM "chapter.be.xml">	
-	<!ENTITY chapter.number SYSTEM "chapter.number.xml">
-	<!ENTITY chapter.fixedusage SYSTEM "chapter.fixedusage.xml">
-	<!ENTITY chapter.memorandum SYSTEM "chapter.memorandum.xml">
-	<!ENTITY chapter.interjection SYSTEM "chapter.interjection.xml">
-	<!ENTITY chapter.abbreviation SYSTEM "chapter.abbreviation.xml">
+	<!ENTITY chapter.be 			SYSTEM "chapter.be.xml">	
+	
+	<!ENTITY chapter.fixedusage 	SYSTEM "chapter.fixedusage.xml">
+	<!ENTITY chapter.memorandum 	SYSTEM "chapter.memorandum.xml">
+	<!ENTITY chapter.word.xml 		SYSTEM "chapter.word.xml">
+	<!ENTITY chapter.word.number.xml	SYSTEM "chapter.word.number.xml">
+	<!ENTITY chapter.abbreviation.xml 	SYSTEM "chapter.abbreviation.xml">
+	<!ENTITY chapter.phrase.xml	 	SYSTEM "chapter.phrase.xml">
 
 ]>
 <book lang="en-us">
@@ -23,7 +24,7 @@
 			<lineage>陈景峰</lineage>
 			<affiliation>
 				<address>
-					<email>openunix@163.com</email>
+					<email>netkiller@msn.com</email>
 				</address>
 			</affiliation>
 		</author>
@@ -32,11 +33,12 @@
 			<year>2008</year>
 			<year>2009</year>
 			<year>2010</year>
+			<year>2015</year>
 			<holder>Neo</holder>
 		</copyright>
 
 		<abstract>
-			<para>学英语记笔记. http://netkiller.hikz.com</para>
+			<para>学英语记笔记. http://netkiller.github.io</para>
 		</abstract>
 	</info>
 	
@@ -48,111 +50,9 @@
 		<para>EFL Program为教材主体,全面培养小学生听、说、读、写能力的教材、管理、服务等一整套完整的英语教学体系。</para>
 	</chapter>
 	&chapter.be;
-	&chapter.number;
 	&chapter.fixedusage;
 	&chapter.memorandum;
-	&chapter.interjection;
-	&chapter.abbreviation;
-	<chapter>
-		<title>疑问</title>
-		<sect1>
-			<title>What</title>
-			<para>What's in your hand?</para>
-		</sect1>
-		<section>
-			<title>Where</title>
-		</section>
-		<section>
-			<title>Which</title>
-		</section>
-		<sect1>
-			<title>Who/Whoes</title>
-		</sect1>
-	</chapter>
-	<chapter>
-		<title>因果</title>
-		<section>
-			<title>因为/所以 because/so</title>
-		</section>
-	</chapter>
-	<chapter>
-		<title>What, That, Which, Who</title>
-		<section>
-			<title>What</title>
-			<para>I know what you mean. 我知道你的意思.</para>
-		</section>
-		<section>
-			<title>That</title>
-			<para>
-				Experts say that while rotational grazing can save money
-				over time, it also requires planning. And that starts
-				with a good map to mark fences, water supplies and
-				grazing areas.
-			</para>
-		</section>
-		<section>
-			<title>Who</title>
-			<para>you will know who thay are.</para>
-		</section>
-	</chapter>
-
-	<chapter>
-		<title>例子</title>
-		<sect1>
-			<title>Make</title>
-		</sect1>
-		<sect1>
-			<title>Do</title>
-			<para />
-			<para>jjjjj</para>
-		</sect1>
-		<sect1>
-			<title>How</title>
-		</sect1>
-
-		<sect1>
-			<title>For</title>
-		</sect1>
-		<sect1>
-			<title>by</title>
-		</sect1>
-		<sect1>
-			<title>On</title>
-		</sect1>
-		<section>
-			<title>Take</title>
-			<section>
-				<title>take a look 看一眼，让我看一下</title>
-				<para>take a look 是一个固定搭配。</para>
-				<para>
-					例如： what is this ,let me take a look. 这是什么啊，让我看一下。
-				</para>
-				<para>
-					take a look at 后面一定有宾语，就是后面一定有有，要看的是什么。
-					意思是，让我看一下....后面要接一下词。
-				</para>
-				<para>
-					例如：what is this,let me take a look at it .
-					这是什么啊，让我看一下它。
-				</para>
-			</section>
-			<section>
-				<title>message</title>
-				<para>May I take a message?</para>
-			</section>
-		</section>
-		<sect1>
-			<title>get</title>
-		</sect1>
-		<sect1>
-			<title>bring</title>
-			<para />
-		</sect1>
-		<section>
-			<title>Can</title>
-			<para>Can you come to my party?</para>
-			<para>Can I come to your party on February 21st?</para>
-		</section>
-	</chapter>
-	
+	&chapter.word.xml;
+	&chapter.abbreviation.xml;
+	&chapter.phrase.xml;
 </book>

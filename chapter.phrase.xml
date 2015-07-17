@@ -1,6 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter>
+<chapter id="phrase">
 	<title>Phrase</title>
 	<para>It's too much. 太多了</para>
 	<para>quite likely. 很有可能</para>	
+	<section>
+		<title>so that 以便</title>
+		<para>The installer will automatically add vagrant to your system path so that it is available in terminals.</para>
+	</section>
+
+	<section>
+		<title>疑问</title>
+		<sect1>
+			<title>What</title>
+			<para>What's in your hand?</para>
+		</sect1>
+		<section>
+			<title>Where</title>
+		</section>
+		<section>
+			<title>Which</title>
+		</section>
+		<sect1>
+			<title>Who/Whoes</title>
+		</sect1>
+	</section>
+	<section>
+		<title>因果</title>
+		<section>
+			<title>因为/所以 because/so</title>
+		</section>
+	</section>
+	<section>
+		<title>What, That, Which, Who</title>
+		<section>
+			<title>What</title>
+			<para>I know what you mean. 我知道你的意思.</para>
+		</section>
+		<section>
+			<title>That</title>
+			<para>
+				Experts say that while rotational grazing can save money
+				over time, it also requires planning. And that starts
+				with a good map to mark fences, water supplies and
+				grazing areas.
+			</para>
+		</section>
+		<section>
+			<title>Who</title>
+			<para>you will know who thay are.</para>
+		</section>
+	</section>
+
+	<section>
+		<title>例子</title>
+		<sect1>
+			<title>Make</title>
+		</sect1>
+		<sect1>
+			<title>Do</title>
+			<para />
+			<para>jjjjj</para>
+		</sect1>
+		<sect1>
+			<title>How</title>
+		</sect1>
+
+		<sect1>
+			<title>For</title>
+		</sect1>
+		<sect1>
+			<title>by</title>
+		</sect1>
+		<sect1>
+			<title>On</title>
+		</sect1>
+		<section>
+			<title>Take</title>
+			<section>
+				<title>take a look 看一眼，让我看一下</title>
+				<para>take a look 是一个固定搭配。</para>
+				<para>
+					例如： what is this ,let me take a look. 这是什么啊，让我看一下。
+				</para>
+				<para>
+					take a look at 后面一定有宾语，就是后面一定有有，要看的是什么。
+					意思是，让我看一下....后面要接一下词。
+				</para>
+				<para>
+					例如：what is this,let me take a look at it .
+					这是什么啊，让我看一下它。
+				</para>
+			</section>
+			<section>
+				<title>message</title>
+				<para>May I take a message?</para>
+			</section>
+		</section>
+		<sect1>
+			<title>get</title>
+		</sect1>
+		<sect1>
+			<title>bring</title>
+			<para />
+		</sect1>
+		<section>
+			<title>Can</title>
+			<para>Can you come to my party?</para>
+			<para>Can I come to your party on February 21st?</para>
+		</section>
+	</section>
 </chapter>

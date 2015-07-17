@@ -1,0 +1,43 @@
+<chapter id="word">
+	<title>单词</title>
+
+<section id="interjection">
+	<title>感叹词</title>
+	<para>excellent a.优秀的，卓越的，杰出的</para>
+	<para>Awesome 令人叹为观止的</para>
+</section>
+<section id="adjective">
+	<title>Adjective</title>
+	<section>
+		<title>necessary 必要的</title>
+		<para>this is particularly necessary sometimes for Windows</para>
+		<para></para>
+	</section>
+</section>
+<section id="adverb">
+	<title>Adverb 副词</title>
+	<section>
+		<title>extremely 及其</title>
+		<para>Installing Vagrant is extremely easy. </para>
+		<para>I'm extremely tired.</para>
+	</section>
+	<section>
+		<title>terribly 非常</title>
+		<para>I'm terribly hungry.</para>
+	</section>
+	<section>
+		<title>super</title>
+		<para>I am super excited.</para>
+	</section>
+	<section>
+		<title>especially</title>
+	</section>
+	<section>
+		<title>particularly 尤其，格外</title>
+		<para>this is particularly necessary sometimes for Windows</para>
+	</section>
+	
+</section>
+
+	&chapter.word.number.xml;
+</chapter>

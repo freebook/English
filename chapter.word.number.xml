@@ -1,7 +1,7 @@
-	<chapter>
-		<title>Number</title>
+	<section id="numerals">
+		<title>Numerals</title>
 
-		<sect1>
+		<section>
 			<title>1 - 12</title>
 			<para>1 one</para>
 			<para>2 two</para>
@@ -15,8 +15,8 @@
 			<para>10 ten</para>
 			<para>eleven 11</para>
 			<para>twelve 12</para>
-		</sect1>
-		<sect1>
+		</section>
+		<section>
 			<title>13 - 19</title>
 			<para>3-9 加后缀 -teen 构成</para>
 			<para>thirteen 13</para>
@@ -27,8 +27,8 @@
 			<para>eighteen 18</para>
 			<para>nineteen 19</para>
 			<para>注意：thirteen fifteen eighteen</para>
-		</sect1>
-		<sect1>
+		</section>
+		<section>
 			<title>20-90</title>
 			<para>2-9 加后缀 -ty 构成</para>
 			<para>twenty 20</para>
@@ -40,16 +40,16 @@
 			<para>eighty 80</para>
 			<para>ninety 90</para>
 			<para>注意：twenty, thirty, forty, fifty, eighty</para>
-		</sect1>
+		</section>
 
-	</chapter>
-	<chapter>
+	</section>
+	<section>
 		<title>Year, Month, Week, Day, Date, Time</title>
-		<sect1>
+		<section>
 			<title>Year</title>
 			<para>A few years later</para>
-		</sect1>
-		<sect1>
+		</section>
+		<section>
 			<title>Month</title>
 			<para>January 1月</para>
 			<para>February 2月</para>
@@ -63,15 +63,15 @@
 			<para>October 10月</para>
 			<para>November 11月</para>
 			<para>December 12月</para>
-		</sect1>
-		<sect1>
+		</section>
+		<section>
 			<title>Week</title>
 			<para>
 				Monday, Tuesday, Wednesday, Thursday, Friday, Saturday,
 				Sunday
 			</para>
-		</sect1>
-		<sect1>
+		</section>
+		<section>
 			<title>Day</title>
 			<para>daybreak; the small (or wee) hours; before dawn</para>
 			<para>(early)Morning</para>
@@ -81,7 +81,7 @@
 			<para>owl-light</para>
 			<para>in the evening; at night</para>
 			<para>midnight</para>
-		</sect1>
+		</section>
 		<section>
 			<title>Date</title>
 			<para>What's tomorrow's date? 明天是几号？</para>
@@ -90,11 +90,11 @@
 		<section>
 			<title>Time</title>
 		</section>
-	</chapter>
-<chapter>
+	</section>
+<section>
 	<title>size</title>
 	<para>small</para>
 	<para>medium</para>
 	<para>large</para>
 	<para>extra-large</para>
-</chapter>
+</section>
